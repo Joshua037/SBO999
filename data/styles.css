@@ -18,6 +18,8 @@
 }
 ._图片 {
 }
+.button {
+}
 ._一级标题 {
   font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:bold;
@@ -90,5 +92,7 @@
 .label {
   font-size:13px;
   text-align:left;
+}
+.flow_shape {
 }
 textarea, select, input, button, div, svg { outline: none; }
