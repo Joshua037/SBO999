@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="446 1212 21 18" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="Clip135">
+      <path d="M 410.5 1161  L 431.5 1161  L 431.5 1187  L 410.5 1187  Z M 330 1158  L 470 1158  L 470 1231  L 330 1231  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <path d="M 458 1221  L 425.6611570247934 1221  A 5 5 0 0 1 420.6611570247934 1216 L 420.6611570247934 1173  A 5 5 0 0 0 415.6611570247934 1168 L 342 1168  " stroke-width="2" stroke-dasharray="0" stroke="rgba(0, 153, 204, 1)" fill="none" class="stroke" mask="url(#Clip135)" />
+  <path d="M 456.5 1217.5  A 3.5 3.5 0 0 0 453 1221 A 3.5 3.5 0 0 0 456.5 1224.5 A 3.5 3.5 0 0 0 460 1221 A 3.5 3.5 0 0 0 456.5 1217.5 Z M 347.10710678118653 1172.2928932188136  L 342.81421356237297 1168  L 347.10710678118653 1163.7071067811864  L 345.6928932188134 1162.2928932188136  L 340.6928932188134 1167.2928932188136  L 339.985786437627 1168  L 340.6928932188134 1168.7071067811864  L 345.6928932188134 1173.7071067811864  L 347.10710678118653 1172.2928932188136  Z " fill-rule="nonzero" fill="rgba(0, 153, 204, 1)" stroke="none" class="fill" mask="url(#Clip135)" />
+</svg>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="352 2003 21 18" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 361 2012  L 616 2012  " stroke-width="2" stroke-dasharray="0" stroke="rgba(88, 0, 170, 1)" fill="none" class="stroke" />
-  <path d="M 362.5 2008.5  A 3.5 3.5 0 0 0 359 2012 A 3.5 3.5 0 0 0 362.5 2015.5 A 3.5 3.5 0 0 0 366 2012 A 3.5 3.5 0 0 0 362.5 2008.5 Z M 615 2019.6  L 622 2012  L 615 2004.4  L 615 2019.6  Z " fill-rule="nonzero" fill="rgba(88, 0, 170, 1)" stroke="none" class="fill" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="34px" preserveAspectRatio="xMidYMin meet" viewBox="864 1960 8 34" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 1006 1965  L 873 1965  A 5 5 0 0 0 868 1970 L 868 1984  A 5 5 0 0 1 863 1989 L 735 1989  " stroke-width="2" stroke-dasharray="0" stroke="rgba(88, 0, 170, 1)" fill="none" class="stroke" />
+  <path d="M 1004.5 1961.5  A 3.5 3.5 0 0 0 1001 1965 A 3.5 3.5 0 0 0 1004.5 1968.5 A 3.5 3.5 0 0 0 1008 1965 A 3.5 3.5 0 0 0 1004.5 1961.5 Z M 736 1981.4  L 729 1989  L 736 1996.6  L 736 1981.4  Z " fill-rule="nonzero" fill="rgba(88, 0, 170, 1)" stroke="none" class="fill" />
 </svg>
