@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="127px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="686 6700 127 8" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 811 6704  L 696 6704  A 5 5 0 0 1 691 6699 L 691 6638  A 5 5 0 0 0 686 6633 L 576 6633  " stroke-width="2" stroke-dasharray="0" stroke="rgba(88, 0, 170, 1)" fill="none" class="stroke" />
-  <path d="M 809.5 6700.5  A 3.5 3.5 0 0 0 806 6704 A 3.5 3.5 0 0 0 809.5 6707.5 A 3.5 3.5 0 0 0 813 6704 A 3.5 3.5 0 0 0 809.5 6700.5 Z M 577 6625.4  L 570 6633  L 577 6640.6  L 577 6625.4  Z " fill-rule="nonzero" fill="rgba(88, 0, 170, 1)" stroke="none" class="fill" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="205px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="230 5917 205 8" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 428 5921  L 236 5921  " stroke-width="2" stroke-dasharray="0" stroke="rgba(88, 0, 170, 1)" fill="none" class="stroke" />
+  <path d="M 426.5 5917.5  A 3.5 3.5 0 0 0 423 5921 A 3.5 3.5 0 0 0 426.5 5924.5 A 3.5 3.5 0 0 0 430 5921 A 3.5 3.5 0 0 0 426.5 5917.5 Z M 237 5913.4  L 230 5921  L 237 5928.6  L 237 5913.4  Z " fill-rule="nonzero" fill="rgba(88, 0, 170, 1)" stroke="none" class="fill" />
 </svg>
