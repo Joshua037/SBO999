@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="926 6244 21 18" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="Clip843">
+    <mask fill="white" id="Clip159">
       <path d="M 980 6455  L 1008 6455  L 1008 6482  L 980 6482  Z M 923 6243  L 1008 6243  L 1008 6714  L 923 6714  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <path d="M 935 6253  L 989 6253  A 5 5 0 0 1 994 6258 L 994 6699  A 5 5 0 0 1 989 6704 L 959 6704  " stroke-width="2" stroke-dasharray="0" stroke="rgba(88, 0, 170, 1)" fill="none" class="stroke" mask="url(#Clip843)" />
-  <path d="M 936.5 6249.5  A 3.5 3.5 0 0 0 933 6253 A 3.5 3.5 0 0 0 936.5 6256.5 A 3.5 3.5 0 0 0 940 6253 A 3.5 3.5 0 0 0 936.5 6249.5 Z M 960 6696.4  L 953 6704  L 960 6711.6  L 960 6696.4  Z " fill-rule="nonzero" fill="rgba(88, 0, 170, 1)" stroke="none" class="fill" mask="url(#Clip843)" />
+  <path d="M 935 6253  L 989 6253  A 5 5 0 0 1 994 6258 L 994 6699  A 5 5 0 0 1 989 6704 L 959 6704  " stroke-width="2" stroke-dasharray="0" stroke="rgba(88, 0, 170, 1)" fill="none" class="stroke" mask="url(#Clip159)" />
+  <path d="M 936.5 6249.5  A 3.5 3.5 0 0 0 933 6253 A 3.5 3.5 0 0 0 936.5 6256.5 A 3.5 3.5 0 0 0 940 6253 A 3.5 3.5 0 0 0 936.5 6249.5 Z M 960 6696.4  L 953 6704  L 960 6711.6  L 960 6696.4  Z " fill-rule="nonzero" fill="rgba(88, 0, 170, 1)" stroke="none" class="fill" mask="url(#Clip159)" />
 </svg>
