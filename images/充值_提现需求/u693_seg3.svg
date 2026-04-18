@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="764 3798 21 18" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="Clip640">
+    <mask fill="white" id="Clip804">
       <path d="M 793.5 3748  L 824.5 3748  L 824.5 3775  L 793.5 3775  Z M 761 3686  L 824.5 3686  L 824.5 3817  L 761 3817  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <path d="M 773 3807  L 804 3807  A 5 5 0 0 0 809 3802 L 809 3701  A 5 5 0 0 0 804 3696 L 797 3696  " stroke-width="2" stroke-dasharray="0" stroke="rgba(88, 0, 170, 1)" fill="none" class="stroke" mask="url(#Clip640)" />
-  <path d="M 774.5 3803.5  A 3.5 3.5 0 0 0 771 3807 A 3.5 3.5 0 0 0 774.5 3810.5 A 3.5 3.5 0 0 0 778 3807 A 3.5 3.5 0 0 0 774.5 3803.5 Z M 798 3688.4  L 791 3696  L 798 3703.6  L 798 3688.4  Z " fill-rule="nonzero" fill="rgba(88, 0, 170, 1)" stroke="none" class="fill" mask="url(#Clip640)" />
+  <path d="M 773 3807  L 804 3807  A 5 5 0 0 0 809 3802 L 809 3701  A 5 5 0 0 0 804 3696 L 797 3696  " stroke-width="2" stroke-dasharray="0" stroke="rgba(88, 0, 170, 1)" fill="none" class="stroke" mask="url(#Clip804)" />
+  <path d="M 774.5 3803.5  A 3.5 3.5 0 0 0 771 3807 A 3.5 3.5 0 0 0 774.5 3810.5 A 3.5 3.5 0 0 0 778 3807 A 3.5 3.5 0 0 0 774.5 3803.5 Z M 798 3688.4  L 791 3696  L 798 3703.6  L 798 3688.4  Z " fill-rule="nonzero" fill="rgba(88, 0, 170, 1)" stroke="none" class="fill" mask="url(#Clip804)" />
 </svg>
