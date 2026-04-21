@@ -16225,7 +16225,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:48px;
+  width:114px;
   height:31px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -16241,7 +16241,7 @@
   position:absolute;
   left:1186px;
   top:2909px;
-  width:48px;
+  width:114px;
   height:31px;
   display:flex;
   transition:none;
@@ -16277,9 +16277,9 @@
 #u370_seg0 {
   border-width:0px;
   position:absolute;
-  left:-164px;
+  left:-98px;
   top:-5px;
-  width:169px;
+  width:103px;
   height:10px;
 }
 #u370_seg1 {
@@ -16293,7 +16293,7 @@
 #u370_seg2 {
   border-width:0px;
   position:absolute;
-  left:-169px;
+  left:-103px;
   top:-10px;
   width:20px;
   height:20px;
@@ -16301,7 +16301,7 @@
 #u370_text {
   border-width:0px;
   position:absolute;
-  left:-132px;
+  left:-99px;
   top:-8px;
   width:100px;
   word-wrap:break-word;
